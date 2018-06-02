@@ -1,3 +1,4 @@
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
@@ -15,4 +16,17 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+h1 {
+    font-family: 'Bahiana', cursive;
+    font-size: 90px;
+    color: #2E3192;
+}
+
+h2{
+    font-family: 'Slabo 27px', serif;
+}
+
+p {
+    font-family: 'Muli', sans-serif;
+}
+
