@@ -16,17 +16,22 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-h1 {
+h2 {
     font-family: 'Bahiana', cursive;
     font-size: 90px;
     color: #2E3192;
 }
 
-h2{
+h3{
     font-family: 'Slabo 27px', serif;
+    font-size: 40px;
+    color: black;
 }
+
 
 p {
     font-family: 'Muli', sans-serif;
+    font-size: 24px;
+    color: black;
 }
 
