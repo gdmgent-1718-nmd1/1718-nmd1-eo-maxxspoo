@@ -25,13 +25,24 @@ h2 {
 h3{
     font-family: 'Slabo 27px', serif;
     font-size: 40px;
-    color: black;
+    color: #000000;
 }
 
 
 p {
     font-family: 'Muli', sans-serif;
     font-size: 24px;
-    color: black;
+    color: #000000;
 }
-
+.lichtblauw {
+    background-color: #54CDCF;
+    color:#2E3192;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+}
+.blauw {
+    background-color: #2E3192;
+    color: #54CDCF
+}
