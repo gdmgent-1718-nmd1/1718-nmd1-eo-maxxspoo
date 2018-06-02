@@ -28,21 +28,97 @@ h3{
     color: #000000;
 }
 
-
 p {
     font-family: 'Muli', sans-serif;
     font-size: 24px;
     color: #000000;
 }
-.lichtblauw {
+
+.lightblue {
     background-color: #54CDCF;
-    color:#2E3192;
     padding: 10px;
     text-align: center;
     width: 300px;
     margin: 10px;
 }
-.blauw {
+
+.blue {
     background-color: #2E3192;
-    color: #54CDCF
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 10px;
 }
+
+.yellow {
+    background-color: #F7FF24;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+}
+
+.green {
+    background-color: #27E836;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+}
+.knop {
+    padding: 10px 50px;
+    margin: 4px 2px;
+    background-color: #27E836;
+    color: white;
+    border: solid;
+    border-color: #2E3192;
+    border-width: 6px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    cursor: pointer;
+    font-family:'Slabo 27px', serif;
+    text-transform: uppercase;
+}
+
+.knop:hover {
+    background-color: #179D22;
+}
+
+.nav {
+    padding: 10px 50px;
+    margin: 4px 2px;
+    background-color: #54CDCF;
+    color: #F7FF24;
+    border: solid;
+    border-color: #27E836;
+    border-width: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 55px;
+    cursor: pointer;
+    font-family:'Bahiana', cursive;
+    text-transform: uppercase;
+}
+
+.nav:hover {
+    text-shadow: -1px 0 #F7FF24, 0 1px #F7FF24, 1px 0 #F7FF24, 0 -1px #F7FF24;
+    color: #54CDCF;
+}
+
+.input {
+    padding: 10px 20px;
+    margin: 6px 0;
+    background-color: white;
+    color:black;
+    border: solid;
+    border-color: #2E3192;
+    border-width: 6px;
+    background-color: white;
+    font-size: 40px;
+    cursor: text;
+    font-family: 'Slabo 27px', serif;
+    
+}
+
+
