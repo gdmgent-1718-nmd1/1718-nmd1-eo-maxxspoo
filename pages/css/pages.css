@@ -12,6 +12,10 @@ body {
     padding: 25px;
 }
 
+p.class {
+    font-size: 16px;
+}
+
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
